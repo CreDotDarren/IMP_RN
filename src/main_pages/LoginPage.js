@@ -339,7 +339,7 @@ const LoginPage = ({navigation}) => {
                   marginBottom: 5,
                   fontSize: 15,
                 }}>
-                {`IMS_1.0.0_1.0.0`}
+                {`IMS_1.0.1_1.0.0`}
               </Text>
             </SafeAreaView>
           </ImageBackground>
